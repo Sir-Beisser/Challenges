@@ -1,15 +1,31 @@
 {
   "canisters": {
     "day_1": {
-      "main": "src/day_1.mo",
+      "main": "src/day_1/day_1.mo",
       "type": "motoko"
     },
     "day_2": {
-      "main": "src/day_2.mo",
+      "main": "src/day_2/day_2.mo",
       "type": "motoko"
     },
     "day_3": {
-      "main": "src/day_3.mo",
+      "main": "src/day_3/day_3.mo",
+      "type": "motoko"
+    },
+    "day_4": {
+      "main": "src/day_4/day_4.mo",
+      "type": "motoko"
+    },
+    "day_5": {
+      "main": "src/day_5/day_5.mo",
+      "type": "motoko"
+    },
+    "day_6": {
+      "main": "src/day_6/day_6.mo",
+      "type": "motoko"
+    },
+    "day_7": {
+      "main": "src/day_7/day_7.mo",
       "type": "motoko"
     }
   },
